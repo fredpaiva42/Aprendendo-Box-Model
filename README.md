@@ -1,5 +1,7 @@
 # Aprendendo Box Model no CSS
 
+![](resultado.jpeg)
+
 No **box-model**, todos os elementos HTML são tratados como uma caixa com quatro áreas. Pensando no modelo como uma caixa de uma encomenda o `conteúdo` (content) é o item que vem na caixa ou no nosso caso o conteúdo do nosso site.
 
 ![](https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png)
